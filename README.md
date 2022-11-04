@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ugurboran. I am Junior Game Developer. I have a bachelor's degree in Computer Science.
 - 👀 I’m interested in game development.
-- 🌱 I’m currently learning Unity Game Engine and developing 2D/3D games.
+- 🌱 I’m currently developing 2D/3D games on Unity game engine.
 - 💞️ I’m looking to collaborate on new games or new game ideas.
 - 📫 You can reach me from ugurboranx@gmail.com.
 
