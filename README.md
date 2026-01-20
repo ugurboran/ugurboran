@@ -1,4 +1,4 @@
-# Hi there, I'm Ugi, I am Junior Game Developer.👋
+# Hi there, I'm Ugi, Junior Game Developer.👋
 
 ## 🎮 Game Development Enthusiast
 
