@@ -7,10 +7,8 @@ I'm a passionate game developer who loves bringing creative ideas to life throug
 ### 🚀 About Me
 
 - 🎯 Game development is my passion - I love creating immersive experiences and solving complex gameplay challenges
-- 🎨 Unity game developer specializing in mobile games, puzzle platformers, and procedural generation
+- 🎨 Currently exploring advanced Unity techniques and game optimization strategies and developing 2D/3D games on Unity game engine.
 - 💡 Always learning and experimenting with new game mechanics and design patterns
-- 🌱 Currently exploring advanced Unity techniques and game optimization strategies and developing 2D/3D games on Unity game engine.
-- 💞️ I’m looking to collaborate on new games or new game ideas.
 
 ### 🎮 What You'll Find Here
 
@@ -19,7 +17,7 @@ This profile showcases my personal projects and game development journey. From m
 ### 🛠️ Technologies & Tools
 
 ```
-Game Development:  Unity, C#, Unity Editor Scripting
+Game Development:  Unity, C#
 Tools: Git, Visual Studio
 ```
 
